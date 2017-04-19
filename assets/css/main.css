@@ -1,0 +1,18 @@
+.padre{
+  width: 200px;
+  height: 200px;
+  margin: 5% 40%;
+
+}
+.hijo{
+  width: 100px;
+  height: 100px;
+  left: 50px;
+  top: 50px;
+  position:relative;
+}
+.hijito{
+  width: 50px;
+  height: 50px;
+
+}
